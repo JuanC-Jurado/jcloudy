@@ -5,6 +5,7 @@ Es una pequeña aplicación de consulta del clima, en la que se proporcionan dat
 
 ## Pruébalo ▶️
 *incompleto!! - Recomiendo probar en local (sección instalación)*
+
 https://juanc-jurado.github.io/jcloudy/
 
 ## Tecnologías ⚙️
