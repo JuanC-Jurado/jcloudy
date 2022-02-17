@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.current{
+  width: 20em;
+  min-width: max-content;
+
+  border-radius: 10px;
+  background-color: #eeeeee22;
+  backdrop-filter: blur(10px);
+  box-shadow: #aaaaaa11 0 0 5px 1px;
+
+  text-align: center;
+  padding: 1em;
+  color: #222;
+}
+
+.current__header h3{
+  font-size: 28px;
+}
+
+table{
+  width: 100%;
+}
+
+.current__table{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 1em;
+  gap: 1em;
+}
+
+.current__tr{
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+}
+
+.current__tr td {
+  font-size: 20px;
+}
+
+@media (max-width: 520px){
+  .current{
+    transform: scale(0.75);
+  }
+}
