@@ -4,7 +4,7 @@
 Es una pequeña aplicación de consulta del clima, en la que se proporcionan datos basicos, como temperatura y humedad a nivel mundial.
 
 ## Pruébalo ▶️
-*incompleto!! - Recomiendo probar en local (sección instalación)*
+*incompleto!! - Recomiendo probar en local*
 
 https://juanc-jurado.github.io/jcloudy/
 
